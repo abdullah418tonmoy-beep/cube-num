@@ -10,8 +10,9 @@ int main()
     while (i <= num)
     {
         cube= (i * i * i);
-        i++;
+       
          printf("Number is: %d and cube of the  %d is : %d \n",i,i,cube);
+          i++;
     }
 
 
